@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Allauddin khan
-- 👀 I’m interested in Web developement, Javascript
+- 👀 I’m interested in Web developement, Javascript and Python.
 - 🌱 I’m currently learning Javascript, React js and Vue js
 - 📫 How to reach me khanallauddin113@gmail.com  
 <!---

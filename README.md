@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Allauddin khan
 - 👀 I’m interested in Web developement, Javascript and Python.
-- 🌱 I’m currently learning Javascript, React js and Vue js
+- 🌱 I’m currently learning Javascript, React js and Next js
+ 
 - 📫 How to reach me khanallauddin113@gmail.com  
 <!---
 allauddin123982/allauddin123982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

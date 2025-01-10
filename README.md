@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allauddin khan
 - 👀 I’m interested in Web developement, Javascript and Python.
-- 🌱 I’m currently learning Javascript, React js and Next js
+- 🌱 Currently learning Javascript, React js and Next js
  
 - 📫 How to reach me khanallauddin113@gmail.com  
 <!---

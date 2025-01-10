@@ -3,7 +3,7 @@
 - 🌱 Currently learning Javascript, React js and Next js
  
 - 📫 How to reach me khanallauddin113@gmail.com
-- 
+- Tech Stack
 - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%23FF6C37.svg?style=for-the-badge&logo=React&logoColor=white)
 ![NEXT JS](https://img.shields.io/badge/Next.js-%23FF6C37.svg?style=for-the-badge&logo=Next.js&logoColor=white)
